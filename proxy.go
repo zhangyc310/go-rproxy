@@ -2,8 +2,8 @@ package main
 
 import (
 	"net"
-	"json"
-	"http"
+	"encoding/json"
+	"net/http"
 	"os"
 	"io"
 )
